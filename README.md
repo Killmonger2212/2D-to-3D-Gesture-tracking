@@ -30,13 +30,7 @@ Follow these steps to set up and run the project on your local machine.
 git clone https://github.com/your-username/3d-hand-gesture-recognition.git
 ```
 
-2. Install the required Python packages:
-
-```
-pip install -r requirements.txt
-```
-
-3. Open the Unity project by following these steps:
+2. Open the Unity project by following these steps:
    - Launch Unity Hub
    - Click on the "Open" button
    - Navigate to the cloned repository folder
